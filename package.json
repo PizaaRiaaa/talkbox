@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@types/date-fns": "^2.6.0",
+    "date-fns": "^2.29.3",
+    "firebase": "^8.10.1"
+  },
+  "name": "talkbox",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PizaaRiaaa/talkbox.git"
+  },
+  "author": "rikki mae martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PizaaRiaaa/talkbox/issues"
+  },
+  "homepage": "https://github.com/PizaaRiaaa/talkbox#readme",
+  "description": ""
+}

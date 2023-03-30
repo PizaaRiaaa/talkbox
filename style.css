@@ -1,0 +1,32 @@
+.chat-rooms>button {
+  color: white;
+}
+
+.container{
+  max-width: 600px !important;
+}
+
+.btn{
+  background: #43d9b3;
+  color: white;
+  box-shadow: none !important;
+  outline: 1px rgb(40, 140, 0) solid;
+}
+
+.btn:focus{
+  outline: 1px rgb(40, 17, 202) solid;
+}
+
+.username{
+  font-weight: bold;
+}
+
+.time{
+  font-size: 0.7em;
+  color: #999;
+}
+
+.update-mssg{
+  text-align: center;
+  margin: 20px auto;
+}
